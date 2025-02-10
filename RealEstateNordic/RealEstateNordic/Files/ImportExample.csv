@@ -1,0 +1,5 @@
+Municipality,DateStart,TaxType,Tax
+Copenhagen,2016.01.01,yearly,0.2
+Copenhagen,2016.05.01,monthly,0.4
+Copenhagen,2016.01.01,daily,0.1
+Copenhagen,2016.12.25,daily,0.1
